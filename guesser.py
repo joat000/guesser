@@ -1,8 +1,8 @@
 import streamlit as st
 import random
 st.title("Guess the number Game")
-st.write("Enter kuit To exit the game")
-st.write("When ask do You wanna play the game Enter y / n or quit")
+st.write("Enter Quit to exit the game")
+st.write("When ask do you wanna play the game Enter y / n or quit")
 st.write("I pick a secret number between 3 and 30 (both included).")
 st.write("You have 5 tries. I'll tell you if each guess is too low or too high.")
 
